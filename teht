@@ -4,7 +4,7 @@ public class s {
 
 	public static void main(String[] args) {
 		
-    int ika = 16;
+    int ika = 50;
     if (ika >= 0 && ika < 18)
     {
     	System.out.println("Olet alaikäinen");
